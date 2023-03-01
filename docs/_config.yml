@@ -39,7 +39,7 @@ locale: "en"
 author:
   name     : "Muktadirul Islam"
   avatar   : "/assets/images/bio-photo.png"
-  bio      : "My awesome biography constrained to a sentence or two goes here."
+  bio      : "Software Engineer @ Chaldal"
   location : "Dhaka, Bangladesh"
   links    :
     - label: "nion068"
